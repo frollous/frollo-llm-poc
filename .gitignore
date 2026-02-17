@@ -1,0 +1,25 @@
+.env
+*.bin
+*.pt
+*.ckpt
+
+*.py[cod]
+*$py.class
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+
+# Data files
+*.parquet
+*.csv
+
+# Sensitive/secure files
+id_mapping_SECURE.parquet
+
+# Directories
+assets/
+experiments/
+data/
