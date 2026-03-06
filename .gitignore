@@ -22,4 +22,5 @@ id_mapping_SECURE.parquet
 # Directories
 assets/
 experiments/
+outputs/
 data/
